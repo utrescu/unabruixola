@@ -1,4 +1,4 @@
-package com.example.bruixola
+package net.xaviersala.unabruixola
 
 import io.flutter.embedding.android.FlutterActivity
 
